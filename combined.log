@@ -1,9 +1,0 @@
-2025-07-04 18:25:57 [info]: POST /teas 201 7.663 ms
-2025-07-04 18:30:16 [info]: {"method":"POST","url":"/teas","status":"201","responseTime":"10.372"}
-2025-07-04 18:30:41 [info]: POST /teas 201 2.211 ms
-2025-07-04 18:30:53 [info]: {"method":"POST","url":"/teas","status":"201","responseTime":"2.916"}
-2025-07-05 18:02:32 [info]: {"method":"POST","url":"/teas","status":"201","responseTime":"5.470"}
-2025-07-05 18:04:23 [info]: {"method":"POST","url":"/teas","status":"201","responseTime":"1.043"}
-2025-07-05 18:04:29 [info]: {"method":"POST","url":"/teas","status":"201","responseTime":"0.330"}
-2025-07-05 18:04:33 [info]: {"method":"POST","url":"/teas","status":"201","responseTime":"0.223"}
-2025-07-05 18:04:37 [info]: {"method":"POST","url":"/teas","status":"201","responseTime":"0.253"}

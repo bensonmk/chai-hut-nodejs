@@ -30,7 +30,7 @@ const logger = createLogger({
       level: 'error',
     }),
     new transports.File({
-      filename: 'combined.log',
+      filename: 'app.log',
     }),
   ],
   exceptionHandlers: [
